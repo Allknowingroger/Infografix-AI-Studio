@@ -1,0 +1,7 @@
+{
+  "name": "Infografix AI + Studio",
+  "description": "Generate four distinct, professional-grade infographics or use AI-powered image editing with the Nano Banana powered Studio.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
